@@ -1,0 +1,40 @@
+# System files
+.DS_Store
+Thumbs.db
+.directory
+Desktop.ini
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*~
+.project
+.settings/
+.classpath
+
+# Logs and temporary files
+*.log
+nohup.out
+*.tmp
+*.temp
+.*.tmp
+.temp/
+
+# Backup files
+*~
+*.bak
+*.backup
+*.old
+.*.bak
+
+# Configuration files
+custom_apps.conf
+
+# OS-specific
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+$RECYCLE.BIN/
